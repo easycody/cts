@@ -1,0 +1,12 @@
+
+git remote add origin https://192.168.0.222:3000/wangqj/cts2.git
+[cody@localhost cts2]$ git push -u origin master
+Counting objects: 51, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (47/47), done.
+Writing objects: 100% (51/51), 73.35 KiB | 0 bytes/s, done.
+Total 51 (delta 1), reused 0 (delta 0)
+To https://192.168.0.222:3000/wangqj/cts2.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+[cody@localhost cts2]$ 
